@@ -1,8 +1,3 @@
----
-
-### Файл 2: `README.ru.md` (Русский)
-
-```markdown
 # gemini-disasm-asm
 
 [English version (README.md)](README.md)
